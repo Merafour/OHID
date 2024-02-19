@@ -48,7 +48,7 @@ Thumbs.db
 *.lai
 *.lo
 *.o
-*.s
+#*.s
 *.slo
 *.so
 *.so.*

@@ -48,7 +48,7 @@ Thumbs.db
 *.lai
 *.lo
 *.o
-*.s
+#*.s
 *.slo
 *.so
 *.so.*
@@ -108,7 +108,6 @@ compile_commands.json
 *.vcxproj
 *vcproj.*.*.user
 *vcxproj.*
-*.user
 
 # MinGW generated files
 *.Debug
