@@ -28,6 +28,7 @@ Build/
 .qmake.stash
 .vscode
 .vs
+*.bak
 
 # Generic Files
 .DS_Store
@@ -48,7 +49,7 @@ Thumbs.db
 *.lai
 *.lo
 *.o
-*.s
+#*.s
 *.slo
 *.so
 *.so.*
